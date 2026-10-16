@@ -119,6 +119,8 @@ Example commands:
 ```bash
 python main.py vision image_test1
 python main.py text image_test1
+
+python main.py video video_demo
 ```
 
 The exact inputs and available commands depend on the application's current implementation.
